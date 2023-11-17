@@ -1,4 +1,4 @@
-# projeto-libras
+# projeto-libras  🤘 🤚 🖐️ 👌
 
 
 Dependências

@@ -1,6 +1,6 @@
 # projeto-libras  🤘 🤚 🖐️ 👌
 
-Projeto desenvolvido para aula de libras da faculdade, utilizamos o site Teachable Machine da Google para criar todos os sinais de mãos e gerar dataSets, optamos em utilizar o Python para conseguir rodar o projeto 
+Projeto desenvolvido para aula de libras da faculdade, utilizamos o site Teachable Machine da Google para criar todos os sinais de mãos e gerar dataSets, optamos em utilizar o Python para rodar o projeto 
 
 #Dependências
 

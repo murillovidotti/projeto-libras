@@ -2,12 +2,14 @@
 
 
 Dependências
+#pip install opencv-python
 
-pip install opencv-python
-pip install mediapipe
-pip install keras
-pip install numpy
+#pip install mediapipe
 
-Letras nao treinadas por contas dos movimentos 
+#pip install keras
 
-H, J, K Z
+#pip install numpy
+
+- Letras nao treinadas por contas dos movimentos 
+
+H, J, K, Z

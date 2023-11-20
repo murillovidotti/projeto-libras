@@ -12,6 +12,8 @@ pip install keras
 
 pip install numpy
 
+pip install tensorflow==2.9.1
+
 - Letras nao treinadas por contas dos movimentos 
 
 H, J, K, Z
